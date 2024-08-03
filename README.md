@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio is here
+Portfolio is here for business purposes
